@@ -16,6 +16,7 @@ public class QuizMain {
 		QuizLogic2 quizLogic2 = new QuizLogic2();
 		int result2 = quizLogic2.calculate(10000, 8);
 		System.out.println(result2);
-
+		
+		
 	}
 }
