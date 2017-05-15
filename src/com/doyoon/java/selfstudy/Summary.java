@@ -14,8 +14,6 @@ public class Summary {
 		/* Simple Date Format Class */
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-mm-dd HH:mm:ss");
 		String date = sdf.format(System.currentTimeMillis());
-		
-		
-		
+
 	}
 }
