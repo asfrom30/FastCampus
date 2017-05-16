@@ -8,6 +8,6 @@ public class Son extends Father{
 		super.setName("son : " + name);
 		
 		// 부모 변수를 public
-		super.name = "s" + name
+		super.name = "s" + name;
 	}
 }

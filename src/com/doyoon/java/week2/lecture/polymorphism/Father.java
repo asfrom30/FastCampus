@@ -1,7 +1,7 @@
 package com.doyoon.java.week2.lecture.polymorphism;
 
 public class Father {
-	private String name;
+	public String name;
 	private int age;
 	
 	public String getName() {
