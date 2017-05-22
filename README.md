@@ -18,7 +18,7 @@
 #### 4. 참조
 - [git 간편안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 - [git Doc](https://git-scm.com/docs/git-checkout)
-- [git branch simulator] (http://learnbranch.urigit.com/)
+- [git branch simulator](http://learnbranch.urigit.com/)
 
 - [마크다운글쓰기](http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/)
 
