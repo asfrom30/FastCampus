@@ -14,3 +14,8 @@
 #### 3. Self Study
 - 보충하고자 하는 내용을 Self Study로 채웁니다. 책은 Effective Java로 진행합니다.
 - [경로](https://github.com/asfrom30/FastCampus/tree/master/src/com/doyoon/java/selfstudy) 
+
+#### 4. 참조
+- [git 간편안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+- [git Doc](https://git-scm.com/docs/git-checkout)
+- [마크다운글쓰기](http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/)
